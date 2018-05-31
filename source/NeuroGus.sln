@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuroGus.Core", "sNeuroGus.Core\NeuroGus.Core.csproj", "{59F64696-5E41-43EF-8484-9ACD0C9B9866}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuroGus.Core", "NeuroGus.Core\NeuroGus.Core.csproj", "{59F64696-5E41-43EF-8484-9ACD0C9B9866}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuroGus.Wpf", "NeuroGus.Wpf\NeuroGus.Wpf.csproj", "{6FE4C059-DF10-43B7-9077-D20749F28BA8}"
 EndProject
