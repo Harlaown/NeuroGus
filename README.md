@@ -30,13 +30,13 @@
 
 Имя: testdataset.xlsx
 
-Директория: ../NeuroGus.Wpf/Files/
+Директория: ../NeuroGus.Wpf/bin/debug/Files/
 
 При замене рассположение и имя оставить тем же
 
 
 ### Запуск
-- Запустить ...\NeuroGus.Wpf\bin\Debug\NeuroGus.Wpf.exe
+- Запустить .../NeuroGus.Wpf/bin/Debug/NeuroGus.Wpf.exe
 - Дождаться окончания процесса обучения
 - ????
 - Вводить запрос в строку и нажимать Enter
